@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/CustomViewExamples.iml" filepath="$PROJECT_DIR$/CustomViewExamples.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/lengthpicker/lengthpicker.iml" filepath="$PROJECT_DIR$/lengthpicker/lengthpicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/versionview/versionview.iml" filepath="$PROJECT_DIR$/versionview/versionview.iml" />
     </modules>
   </component>
 </project>
