@@ -1,1 +1,1 @@
-include ':app', ':versionview', ':lengthpicker', ':squareview'
+include ':app', ':versionview', ':lengthpicker', ':squareview', ':photospiral'
