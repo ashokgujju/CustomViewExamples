@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/lengthpicker/lengthpicker.iml" filepath="$PROJECT_DIR$/lengthpicker/lengthpicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/photospiral/photospiral.iml" filepath="$PROJECT_DIR$/photospiral/photospiral.iml" />
       <module fileurl="file://$PROJECT_DIR$/pizzaview/pizzaview.iml" filepath="$PROJECT_DIR$/pizzaview/pizzaview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sidewayslayout/sidewayslayout.iml" filepath="$PROJECT_DIR$/sidewayslayout/sidewayslayout.iml" />
       <module fileurl="file://$PROJECT_DIR$/squareview/squareview.iml" filepath="$PROJECT_DIR$/squareview/squareview.iml" />
       <module fileurl="file://$PROJECT_DIR$/versionview/versionview.iml" filepath="$PROJECT_DIR$/versionview/versionview.iml" />
     </modules>
